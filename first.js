@@ -11,6 +11,7 @@ const pi = 3.14
 let area
 area = pi*radius*radius
 console.log(area)
+console.log(pi)
 
 //numbers
 let no = 786254231517.467
