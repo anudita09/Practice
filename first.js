@@ -35,6 +35,7 @@ let userName = "peakai"
 console.log(userName)
 let first = "anudita"
 let last = "sharma"
+console.log(first)
 let name = first+" " +last
 console.log(name)
 let withQuotes = 'software engineer "QA"' 
